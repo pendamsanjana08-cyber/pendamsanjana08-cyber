@@ -1,24 +1,42 @@
-Hi, I'm Sanjana 👋
+# Hi, I'm Sanjana 👋
 
-💻 Aspiring Full Stack Developer  
-🚀 Tech Stack: Python, Django, JavaScript  
-🚀 Learning Python, Django & Web Development  
-📚 Currently practicing DSA & building projects  
-🎯 Goal: Become a Software Developer  
+💙 Aspiring Full Stack Developer  
+🚀 Passionate about building real-world projects  
 
+---
 
-## 🛠 Skills
-- Python
-- HTML, CSS
-- JavaScript
-- SQL
+## 👩‍💻 Tech Stack
+- Python 🐍
+- JavaScript ⚡
+- HTML & CSS 🎨
 
-## 📌 Projects
-- 🍕 Pizza Delivery App  
-- 💻 Python Practice Programs  
+---
 
-## 📈 GitHub Activity
-I am actively learning and pushing code daily 🚀  
+## 📚 Currently Learning
+- Backend Development
+- APIs & Databases
+- Full Stack Projects
 
-## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/your-link
+---
+
+## 🚀 Projects
+- 🔹 Internship Web Development Tasks
+- 🔹 Python Practice Projects
+- 🔹 More coming soon...
+
+---
+
+## 🎯 Goals
+- Become a Full Stack Developer  
+- Build impactful real-world projects  
+- Get a good internship 💼  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: pendamsanjana08@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/sanjana-patel-3660aa3b1
+
+---
+
+⭐ *Consistency is my strength. Learning step by step every day.* 💙
