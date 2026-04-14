@@ -1,12 +1,11 @@
-
-<!--
-**pendamsanjana08-cyber/pendamsanjana08-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Sanjana 👋
+Hi, I'm Sanjana 👋
 
 💻 Aspiring Full Stack Developer  
+🚀 Tech Stack: Python, Django, JavaScript  
 🚀 Learning Python, Django & Web Development  
 📚 Currently practicing DSA & building projects  
+🎯 Goal: Become a Software Developer  
+
 
 ## 🛠 Skills
 - Python
