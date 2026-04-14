@@ -40,3 +40,7 @@
 ---
 
 ⭐ *Consistency is my strength. Learning step by step every day.* 💙
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pendamsanjana08-cyber&theme=tokyonight)
