@@ -4,12 +4,11 @@
 🚀 Passionate about building real-world projects  
 
 ---
+## 🛠️ Tech Stack
 
-## 👩‍💻 Tech Stack
-- Python 🐍
-- JavaScript ⚡
-- HTML & CSS 🎨
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,nodejs,mongodb,git" />
+</p>
 ---
 
 ## 📚 Currently Learning
@@ -40,11 +39,15 @@
 ---
 
 ⭐ *Consistency is my strength. Learning step by step every day.* 💙
+---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pendamsanjana08-cyber&theme=tokyonight)
+---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
+---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pendamsanjana08-cyber&theme=tokyo-night)
+---
