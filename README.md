@@ -45,4 +45,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pendamsanjana08-cyber&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pendamsanjana08-cyber&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendamsanjana08-cyber&layout=compact&theme=tokyonight)
