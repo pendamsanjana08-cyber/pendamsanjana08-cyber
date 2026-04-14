@@ -45,4 +45,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pendamsanjana08-cyber&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pendamsanjana08-cyber&layout=compact&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
