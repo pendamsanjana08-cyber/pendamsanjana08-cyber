@@ -48,6 +48,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
 ---
-##Activity graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pendamsanjana08-cyber&theme=tokyo-night)
 ---
