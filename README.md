@@ -28,7 +28,8 @@
 ## 🎯 Goals
 - Become a Full Stack Developer  
 - Build impactful real-world projects  
-- Get a good internship 💼  
+- Get a good internship 💼
+- Developing skills
 
 ---
 
