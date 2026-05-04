@@ -12,7 +12,6 @@
 ---
 
 ## 📚 Currently Learning
-- Backend Development
 - APIs & Databases
 - Full Stack Projects
 
