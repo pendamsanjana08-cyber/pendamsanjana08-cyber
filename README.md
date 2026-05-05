@@ -43,7 +43,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=octocat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
 ---
