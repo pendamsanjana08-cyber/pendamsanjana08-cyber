@@ -44,7 +44,7 @@
 ---
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pendamsanjana08-cyber&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pendamsanjana08-cyber&theme=tokyonight&hide_border=true)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
 ---
