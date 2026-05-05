@@ -42,8 +42,8 @@
 ⭐ *Consistency is my strength. Learning step by step every day.* 💙
 
 ---
+https://streak-stats.demolab.com/?user=pendamsanjana08-cyber
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Learning+Everyday;Building+Projects🚀&center=true)
 ---
