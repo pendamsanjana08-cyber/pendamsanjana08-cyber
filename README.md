@@ -9,7 +9,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,nodejs,mongodb,git" />
 </p>
-
+---
 
 ## 📚 Currently Learning
 - APIs & Databases
